@@ -16,8 +16,7 @@
 	<label for="">Escriba un numero</label>
 	<input type="text" placeholder="Escirba el numero">	
 	<button>Enviar</button>
-	<p>Estoes un cambio</p>
-	<p>Éste es un nuevo cambio</p>	
+	<p>Estoes un cambio</p>	
 	<p>
 		<?php
 			$edad_minima = 20;
