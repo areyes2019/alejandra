@@ -16,7 +16,8 @@
 	<label for="">Escriba un numero</label>
 	<input type="text" placeholder="Escirba el numero">	
 	<button>Enviar</button>
-	<p>Estoes un cambio</p>	
+	<p>Estoes un cambio</p>
+	<p>Lorem ipsum dolor sit, amet, consectetur adipisicing elit. Magnam minus quis a voluptatem, dolores, aliquid delectus corrupti perferendis, quibusdam, voluptas itaque. Adipisci sit molestiae nesciunt non quasi expedita, doloremque molestias?</p>	
 	<p>
 		<?php
 			$edad_minima = 20;
